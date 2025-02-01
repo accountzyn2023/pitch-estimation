@@ -1,0 +1,18 @@
+# 音频文件
+*.wav
+*.m4a
+*.mid
+*.musicxml
+
+# 模型文件
+*.pt
+
+# 文档文件
+*.pdf
+
+# 压缩文件
+*.zip
+
+# 文件夹
+ffmpeg-master-latest-win64-gpl-shared/
+MIR-1K/ 
